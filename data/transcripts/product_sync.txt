@@ -1,0 +1,10 @@
+Title: Product Launch Sync
+Date: 2026-10-05
+Alice: Thanks everyone. Let's start with the launch date. We decided to launch on October 20th.
+Bob: Agreed. I'll finish the payment integration by Friday, it's urgent.
+Alice: Priya, can you draft the launch announcement email by Wednesday?
+Priya: Sure. I will also prepare the FAQ page before October 15.
+Bob: We agreed to go with Stripe instead of PayPal.
+Alice: Great. Let's meet again next Tuesday at 11am to review progress.
+Priya: One more thing, I can update the pricing page when I get time.
+Alice: Fine. I'll send the budget summary to finance by tomorrow.

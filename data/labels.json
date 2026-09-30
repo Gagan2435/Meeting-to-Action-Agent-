@@ -1,0 +1,21 @@
+{
+  "product_sync.txt": [
+    {"owner": "Bob", "task": "finish the payment integration"},
+    {"owner": "Priya", "task": "draft the launch announcement email"},
+    {"owner": "Priya", "task": "prepare the FAQ page"},
+    {"owner": "Priya", "task": "update the pricing page"},
+    {"owner": "Alice", "task": "send the budget summary to finance"}
+  ],
+  "progress_review.txt": [
+    {"owner": "Bob", "task": "finish the payment integration"},
+    {"owner": "Sam", "task": "fix the login timeout bug"},
+    {"owner": "Sam", "task": "write a regression test"},
+    {"owner": "Priya", "task": "share the FAQ link with support"},
+    {"owner": "Marcus", "task": "book the security audit"}
+  ],
+  "client_call.txt": [
+    {"owner": "Raj", "task": "set up the weekly report template"},
+    {"owner": "Raj", "task": "email the client the NDA"},
+    {"owner": "Dana", "task": "schedule the kickoff call"}
+  ]
+}

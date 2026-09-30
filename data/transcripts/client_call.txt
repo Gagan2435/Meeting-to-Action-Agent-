@@ -1,0 +1,8 @@
+Title: Customer Onboarding Call
+Date: 2026-10-08
+Dana: Thanks for joining. To recap, the client wants weekly reports instead of monthly.
+Raj: That works. I'll set up the weekly report template on Monday.
+Dana: Okay, and someone should email the client the NDA. Raj, that's yours.
+Raj: Got it.
+Dana: Let's go with Slack for all client communication.
+Dana: I will schedule the kickoff call for October 19th at 3pm.
