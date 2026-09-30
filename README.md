@@ -32,7 +32,4 @@ transcript -> **RAG** (BM25 over past meetings) -> **LLM extraction** (few-shot 
 | Agentic tool use | `agent.py` |
 | Evaluation | `evaluate.py`, `data/labels.json` |
 
-## Resume bullets (fill in your own numbers from `python evaluate.py`)
-- Built an agentic meeting-to-action system using MCP (3 tool servers, runtime tool discovery) and an LLM planner that turns transcripts into task cards, calendar events and follow-up emails, with human-in-the-loop approval.
-- Designed few-shot, schema-constrained prompts with Pydantic validation and a deterministic fallback; improved extraction F1 from X (rule-based) to Y (LLM) on a hand-labelled set.
-- Added a BM25 retrieval memory of past meetings to give the LLM context and skip duplicate tasks across meetings.
+
